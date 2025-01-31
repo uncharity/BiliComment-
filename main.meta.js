@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         B站评论优化
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  优化B站评论请求处理
 // @author       uncharity
 // @license      MIT
