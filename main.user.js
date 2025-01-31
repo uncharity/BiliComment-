@@ -7,8 +7,7 @@
 // @license      MIT
 // @icon         https://www.bilibili.com/favicon.ico
 // @match        https://www.bilibili.com/video/*
-// @downloadURL  https://github.com/uncharity/BiliComment+/raw/main/main.user.js
-// @updateURL    https://github.com/uncharity/BiliComment+/raw/main/main.meta.js
+// @downloadURL  https://github.com/uncharity/BiliComment-/raw/main/main.user.js
 // @run-at       document-start
 // @grant        none
 // ==/UserScript==
