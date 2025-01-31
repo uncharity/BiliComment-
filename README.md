@@ -67,5 +67,5 @@
 
 <!-- 隐式链接定义 -->
 [tm]: https://www.tampermonkey.net/
-[install]: https://github.com/uncharity/BiliComment+/raw/main/main.user.js
-[issues]: https://github.com/uncharity/BiliComment-Plus/issues
+[install]: https://github.com/uncharity/BiliComment-/raw/main/main.user.js
+[issues]: https://github.com/uncharity/BiliComment-/issues
