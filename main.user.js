@@ -44,11 +44,9 @@
    */
   function processCommentData(data) {
     if (!data?.data?.replies?.length) {
-      //没有评论数据
       return data;
     }
     data.data.replies.forEach(function (reply) {
-      if (!reply?.content?.members?.length) return; //心理安慰
       const content = reply.content;
       const jump_url = content.jump_url;
       const jumps = Object.keys(jump_url);
